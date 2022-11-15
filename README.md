@@ -1,3 +1,3 @@
 # Sample
 
-###This is Lasya Suravajhela contributing to the exercise
+### This is Lasya Suravajhela contributing to the exercise
